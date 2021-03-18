@@ -1,0 +1,16 @@
+{
+  "name": "curso_spa",
+  "version": "1.0.0",
+  "description": "A SPA just to understand its logics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SPA",
+    "JavaScript",
+    "Vanilla"
+  ],
+  "author": "Axel Yaguana <axl9809@gmail.com>",
+  "license": "MIT"
+}
